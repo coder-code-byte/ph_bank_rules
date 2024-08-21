@@ -1,0 +1,26 @@
+# AUTHOR: coder-code-byte
+# REPO: https://github.com/coder-code-byte/ph_bank_rules
+# UPDATED: 2024-08-21 10:58:37
+
+# NAME: bdo
+# HOST-SUFFIX: 1
+# IP-CIDR: 0
+# TOTAL: 1
+HOST-SUFFIX, zimperium.com, BDO
+
+# NAME: bpi
+# HOST-SUFFIX: 1
+# TOTAL: 1
+HOST-SUFFIX, bpi.com.ph, BPI
+
+# NAME: sbc
+# HOST-SUFFIX: 1
+# IP-CIDR: 0
+# TOTAL: 1
+HOST-SUFFIX, launchdarkly.com, SBC
+
+# NAME: unionbank
+# HOST-SUFFIX: 1
+# IP-CIDR: 0
+# TOTAL: 1
+HOST-SUFFIX, unionbankph.com, UNIONBANK
