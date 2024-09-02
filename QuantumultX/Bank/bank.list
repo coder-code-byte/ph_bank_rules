@@ -18,6 +18,7 @@ HOST-SUFFIX, bpi.com.ph, BPI
 # IP-CIDR: 0
 # TOTAL: 1
 HOST-SUFFIX, launchdarkly.com, SBC
+HOST-SUFFIX, securitybank.com, SBC
 
 # NAME: unionbank
 # HOST-SUFFIX: 1
