@@ -34,6 +34,8 @@ HOST-SUFFIX, unionbankph.com, UNIONBANK
 # IP-CIDR: 0
 # TOTAL: 1
 HOST-SUFFIX, paymaya.com, Maya
+HOST-SUFFIX, mayabank.ph, Maya
+# HOST, 940c5ecf154a2dd669454fc022ed18283a8196d9.csftr.com,Maya
 # DOMAIN-KEYWORD, sendbird.com, Maya
 
 # NAME: HSBC
