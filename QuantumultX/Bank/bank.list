@@ -21,7 +21,7 @@ HOST-SUFFIX, bpi.com.ph, BPI
 # TOTAL: 1
 HOST-SUFFIX, securitybank.com, SBC
 DOMAIN-KEYWORD, retail-prod-web-application, SBC
-DOMAIN-KEYWORD, openam-sbc-sgp. SBC
+DOMAIN-KEYWORD, openam-sbc-sgp, SBC
 
 # NAME: unionbank
 # HOST-SUFFIX: 1
