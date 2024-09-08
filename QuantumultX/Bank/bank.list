@@ -7,6 +7,8 @@
 # IP-CIDR: 0
 # TOTAL: 1
 HOST-SUFFIX, zimperium.com, BDO
+HOST-SUFFIX, bdo.com.ph, BDO
+DOMAIN-KEYWORD, app.prd.bdo.live, BDO
 
 # NAME: bpi
 # HOST-SUFFIX: 1
@@ -17,11 +19,26 @@ HOST-SUFFIX, bpi.com.ph, BPI
 # HOST-SUFFIX: 1
 # IP-CIDR: 0
 # TOTAL: 1
-HOST-SUFFIX, launchdarkly.com, SBC
 HOST-SUFFIX, securitybank.com, SBC
+DOMAIN-KEYWORD, retail-prod-web-application, SBC
+DOMAIN-KEYWORD, openam-sbc-sgp. SBC
 
 # NAME: unionbank
 # HOST-SUFFIX: 1
 # IP-CIDR: 0
 # TOTAL: 1
 HOST-SUFFIX, unionbankph.com, UNIONBANK
+
+# NAME: Maya
+# HOST-SUFFIX: 1
+# IP-CIDR: 0
+# TOTAL: 1
+HOST-SUFFIX, paymaya.com, Maya
+# DOMAIN-KEYWORD, sendbird.com, Maya
+
+# NAME: HSBC
+# HOST-SUFFIX: 1
+# IP-CIDR: 0
+# TOTAL: 1
+HOST-SUFFIX, hsbc.com.ph, HSBC
+HOST-SUFFIX, hsbc.com, HSBC
