@@ -6,7 +6,7 @@
 # HOST-SUFFIX: 1
 # IP-CIDR: 0
 # TOTAL: 1
-HOST-SUFFIX, zimperium.com, BDO
+# HOST-SUFFIX, zimperium.com, BDO
 HOST-SUFFIX, bdo.com.ph, BDO
 DOMAIN-KEYWORD, app.prd.bdo.live, BDO
 
